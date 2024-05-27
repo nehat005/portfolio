@@ -1,5 +1,4 @@
-# Neha Tandon
-Machine Learning Engineer
+Solving your PEBKAC from ML perspective :) 
 
 ## Summary
 1-2 sentences summarizing your professional experience and expertise
